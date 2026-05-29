@@ -35,19 +35,19 @@ Currently focused on designing reusable framework structures and writing compreh
 
 ### 📚 Developer Handbooks
 
-| | Handbook | Description |
-|---|---------|-------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="20" /> | **[EF Core Handbook](https://github.com/Oxara/efcore-handbook)** | EF Core 8/9/10 — Comprehensive Turkish developer reference |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20" /> | **[Redis Handbook](https://github.com/Oxara/redis-handbook)** | Redis — Caching, pub/sub, data structures in Turkish |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="20" /> | **[RabbitMQ Handbook](https://github.com/Oxara/rabbitmq-handbook)** | RabbitMQ 4.3 / .NET 8+ — Messaging, queues, MassTransit in Turkish |
+| | Handbook | Live Site | Description |
+|---|---------|-----------|-------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="20" /> | **[EF Core Handbook](https://github.com/Oxara/efcore-handbook)** | [🌐 Site](https://oxara.github.io/efcore-handbook/) | EF Core 8/9/10 — Comprehensive Turkish developer reference |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20" /> | **[Redis Handbook](https://github.com/Oxara/redis-handbook)** | [🌐 Site](https://oxara.github.io/redis-handbook/) | Redis — Caching, pub/sub, data structures in Turkish |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="20" /> | **[RabbitMQ Handbook](https://github.com/Oxara/rabbitmq-handbook)** | [🌐 Site](https://oxara.github.io/rabbitmq-handbook/) | RabbitMQ 4.3 / .NET 8+ — Messaging, queues, MassTransit in Turkish |
 
 ---
 
 ### 📦 NuGet Package
 
-| | Package | Description |
-|---|---------|-------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" width="20" /> | **[Oxtensions](https://github.com/Oxara/Oxtensions)** | .NET Extension Libraries — Reusable utility extensions for everyday backend work |
+| | Package | NuGet | Description |
+|---|---------|-------|-------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" width="20" /> | **[Oxtensions](https://github.com/Oxara/Oxtensions)** | [📦 NuGet](https://www.nuget.org/packages/Oxtensions) | .NET Extension Libraries — Reusable utility extensions for everyday backend work |
 
 ---
 
