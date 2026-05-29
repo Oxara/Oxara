@@ -39,6 +39,7 @@ Currently focused on designing reusable framework structures and writing compreh
 |---|---------|-------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="20" /> | **[EF Core Handbook](https://github.com/Oxara/efcore-handbook)** | EF Core 8/9/10 — Comprehensive Turkish developer reference |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20" /> | **[Redis Handbook](https://github.com/Oxara/redis-handbook)** | Redis — Caching, pub/sub, data structures in Turkish |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="20" /> | **[RabbitMQ Handbook](https://github.com/Oxara/rabbitmq-handbook)** | RabbitMQ 4.3 / .NET 8+ — Messaging, queues, MassTransit in Turkish |
 
 ---
 
