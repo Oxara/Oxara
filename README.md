@@ -3,14 +3,11 @@
 ## Erdem Özkara
 
 14+ yıl deneyimli kurumsal backend sistemleri ve yazılım mimarisi mühendisi.  
-Şu an yeniden kullanılabilir framework yapıları tasarlıyor ve kapsamlı geliştirici rehberleri yazıyor.
+Ölçeklenebilir dağıtık sistemler tasarlar, yeniden kullanılabilir framework yapıları üretir.
 
 <p>
 <a href="https://www.linkedin.com/in/erdemozkara/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://medium.com/@oxara.dev">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
 </p>
 
