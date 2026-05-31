@@ -6,6 +6,9 @@
 Ölçeklenebilir dağıtık sistemler tasarlar, yeniden kullanılabilir framework yapıları üretir.
 
 <p>
+<a href="https://oxara.github.io/">
+<img src="https://img.shields.io/badge/oxara.github.io-Portal-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Portal" />
+</a>
 <a href="https://www.linkedin.com/in/erdemozkara/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
