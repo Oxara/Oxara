@@ -2,8 +2,8 @@
 
 ## Erdem Özkara
 
-Software Engineer with 14+ years of experience in enterprise backend systems and software architecture.  
-Currently focused on designing reusable framework structures and writing comprehensive developer handbooks.
+14+ yıl deneyimli kurumsal backend sistemleri ve yazılım mimarisi mühendisi.  
+Şu an yeniden kullanılabilir framework yapıları tasarlıyor ve kapsamlı geliştirici rehberleri yazıyor.
 
 <p>
 <a href="https://www.linkedin.com/in/erdemozkara/">
@@ -16,7 +16,7 @@ Currently focused on designing reusable framework structures and writing compreh
 
 ---
 
-### Tech Stack
+### Teknoloji Yığını
 
 <p>
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -33,30 +33,30 @@ Currently focused on designing reusable framework structures and writing compreh
 
 ---
 
-### 📚 Developer Handbooks
+### 📚 Geliştirici Rehberleri
 
-| | Name | Site | Description |
+| | Ad | Site | Açıklama |
 |:---:|------|:----:|-------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="20" /> | **[EF Core Handbook](https://github.com/Oxara/efcore-handbook)** | [🌐](https://oxara.github.io/efcore-handbook/) | EF Core 8/9/10 — Production-grade Turkish developer reference covering queries, migrations, performance |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20" /> | **[Redis Handbook](https://github.com/Oxara/redis-handbook)** | [🌐](https://oxara.github.io/redis-handbook/) | Redis — Caching strategies, pub/sub, data structures, clustering in Turkish |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="20" /> | **[RabbitMQ Handbook](https://github.com/Oxara/rabbitmq-handbook)** | [🌐](https://oxara.github.io/rabbitmq-handbook/) | RabbitMQ 4.3 / .NET 8+ — Messaging patterns, queues, exchanges, MassTransit in Turkish |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="20" /> | **[EF Core Handbook](https://github.com/Oxara/efcore-handbook)** | [🌐](https://oxara.github.io/efcore-handbook/) | EF Core 8/9/10 — Sorgular, migration, performans konularında kapsamlı Türkçe referans |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20" /> | **[Redis Handbook](https://github.com/Oxara/redis-handbook)** | [🌐](https://oxara.github.io/redis-handbook/) | Redis — Cache stratejileri, pub/sub, veri yapıları, clustering |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="20" /> | **[RabbitMQ Handbook](https://github.com/Oxara/rabbitmq-handbook)** | [🌐](https://oxara.github.io/rabbitmq-handbook/) | RabbitMQ 4.3 / .NET 8+ — Mesajlaşma kalıpları, kuyruklar, exchange'ler, MassTransit |
 
-### 📝 Articles
+### 📝 Makaleler
 
-| | Name | Site | Description |
+| | Ad | Site | Açıklama |
 |:---:|------|:----:|-------------|
 | 🕐 | **[Timezone Article](https://github.com/Oxara/timezone-article)** | [🌐](https://oxara.github.io/timezone-article/) | Uluslararası Zaman Yönetimi — Zaman dilimleri, UTC, DST, IANA veritabanı ve yazılımcı rehberi |
 
-### 📦 Packages & Tools
+### 📦 Paketler & Araçlar
 
-| | Name | Link | Description |
+| | Ad | Link | Açıklama |
 |:---:|------|:----:|-------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" width="20" /> | **[Oxtensions](https://github.com/Oxara/Oxtensions)** | [📦](https://www.nuget.org/packages/Oxtensions) | .NET Extension Libraries — Reusable utility extensions for everyday backend work |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" /> | **[Docker Service Stack](https://github.com/Oxara/Docker-Service-Stack)** | — | Production-ready Docker compositions — SQL Server, Redis, RabbitMQ in one command |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" width="20" /> | **[Oxtensions](https://github.com/Oxara/Oxtensions)** | [📦](https://www.nuget.org/packages/Oxtensions) | .NET Extension Libraries — Günlük backend işleri için yeniden kullanılabilir yardımcı uzantılar |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" /> | **[Docker Service Stack](https://github.com/Oxara/Docker-Service-Stack)** | — | Üretime hazır Docker kompozisyonları — SQL Server, Redis, RabbitMQ tek komutla |
 
 ---
 
-### Architecture & Patterns
+### Mimari & Desenler
 
 ```
 Clean Architecture · CQRS · Domain-Driven Design · Repository Pattern
@@ -66,5 +66,5 @@ Vertical Slice · Event-Driven · Microservices · API Gateway
 ---
 
 <p align="center">
-<i>I don't write frontend. I write the systems that frontend talks to.</i>
+<i>Frontend yazmam. Frontend'in konuştuğu sistemleri yazarım.</i>
 </p>
