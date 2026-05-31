@@ -35,35 +35,24 @@ Currently focused on designing reusable framework structures and writing compreh
 
 ### 📚 Developer Handbooks
 
-| | Handbook | Live Site | Description |
-|---|---------|-----------|-------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="20" /> | **[EF Core Handbook](https://github.com/Oxara/efcore-handbook)** | [🌐 Site](https://oxara.github.io/efcore-handbook/) | EF Core 8/9/10 — Comprehensive Turkish developer reference |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20" /> | **[Redis Handbook](https://github.com/Oxara/redis-handbook)** | [🌐 Site](https://oxara.github.io/redis-handbook/) | Redis — Caching, pub/sub, data structures in Turkish |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="20" /> | **[RabbitMQ Handbook](https://github.com/Oxara/rabbitmq-handbook)** | [🌐 Site](https://oxara.github.io/rabbitmq-handbook/) | RabbitMQ 4.3 / .NET 8+ — Messaging, queues, MassTransit in Turkish |
-
----
+| | Name | Site | Description |
+|:---:|------|:----:|-------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="20" /> | **[EF Core Handbook](https://github.com/Oxara/efcore-handbook)** | [🌐](https://oxara.github.io/efcore-handbook/) | EF Core 8/9/10 — Production-grade Turkish developer reference covering queries, migrations, performance |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20" /> | **[Redis Handbook](https://github.com/Oxara/redis-handbook)** | [🌐](https://oxara.github.io/redis-handbook/) | Redis — Caching strategies, pub/sub, data structures, clustering in Turkish |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="20" /> | **[RabbitMQ Handbook](https://github.com/Oxara/rabbitmq-handbook)** | [🌐](https://oxara.github.io/rabbitmq-handbook/) | RabbitMQ 4.3 / .NET 8+ — Messaging patterns, queues, exchanges, MassTransit in Turkish |
 
 ### 📝 Articles
 
-| | Article | Live Site | Description |
-|---|---------|-----------|-------------|
-| 🕐 | **[Timezone Article](https://github.com/Oxara/timezone-article)** | [🌐 Site](https://oxara.github.io/timezone-article/) | Uluslararası Zaman Yönetimi — Zaman dilimleri, UTC, DST, IANA ve yazılımcı rehberi |
+| | Name | Site | Description |
+|:---:|------|:----:|-------------|
+| 🕐 | **[Timezone Article](https://github.com/Oxara/timezone-article)** | [🌐](https://oxara.github.io/timezone-article/) | Uluslararası Zaman Yönetimi — Zaman dilimleri, UTC, DST, IANA veritabanı ve yazılımcı rehberi |
 
----
+### 📦 Packages & Tools
 
-### 📦 NuGet Package
-
-| | Package | NuGet | Description |
-|---|---------|-------|-------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" width="20" /> | **[Oxtensions](https://github.com/Oxara/Oxtensions)** | [📦 NuGet](https://www.nuget.org/packages/Oxtensions) | .NET Extension Libraries — Reusable utility extensions for everyday backend work |
-
----
-
-### 🛠 Open Source
-
-| | Project | Description |
-|---|---------|-------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" /> | **[Docker Service Stack](https://github.com/Oxara/Docker-Service-Stack)** | Production-ready Docker compositions — SQL Server, Redis, RabbitMQ in one command |
+| | Name | Link | Description |
+|:---:|------|:----:|-------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" width="20" /> | **[Oxtensions](https://github.com/Oxara/Oxtensions)** | [📦](https://www.nuget.org/packages/Oxtensions) | .NET Extension Libraries — Reusable utility extensions for everyday backend work |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" /> | **[Docker Service Stack](https://github.com/Oxara/Docker-Service-Stack)** | — | Production-ready Docker compositions — SQL Server, Redis, RabbitMQ in one command |
 
 ---
 
