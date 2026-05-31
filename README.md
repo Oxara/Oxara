@@ -37,6 +37,7 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="20" /> | **[EF Core Handbook](https://github.com/Oxara/efcore-handbook)** | [🌐](https://oxara.github.io/efcore-handbook/) | EF Core 8/9/10 — Sorgular, migration, performans konularında kapsamlı Türkçe referans |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20" /> | **[Redis Handbook](https://github.com/Oxara/redis-handbook)** | [🌐](https://oxara.github.io/redis-handbook/) | Redis — Cache stratejileri, pub/sub, veri yapıları, clustering |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="20" /> | **[RabbitMQ Handbook](https://github.com/Oxara/rabbitmq-handbook)** | [🌐](https://oxara.github.io/rabbitmq-handbook/) | RabbitMQ 4.3 / .NET 8+ — Mesajlaşma kalıpları, kuyruklar, exchange'ler, MassTransit |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="20" /> | **[Elasticsearch Handbook](https://github.com/Oxara/elasticsearch-handbook)** | [🌐](https://oxara.github.io/elasticsearch-handbook/) | Elasticsearch 9.4 / .NET 10 — İndeksleme, sorgular, aggregation, cluster yönetimi |
 
 ### 📝 Makaleler
 
