@@ -41,6 +41,7 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20" /> | **[Redis Handbook](https://github.com/Oxara/redis-handbook)** | [🌐](https://oxara.github.io/redis-handbook/) | Redis — Cache stratejileri, pub/sub, veri yapıları, clustering |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="20" /> | **[RabbitMQ Handbook](https://github.com/Oxara/rabbitmq-handbook)** | [🌐](https://oxara.github.io/rabbitmq-handbook/) | RabbitMQ 4.3 / .NET 8+ — Mesajlaşma kalıpları, kuyruklar, exchange'ler, MassTransit |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="20" /> | **[Elasticsearch Handbook](https://github.com/Oxara/elasticsearch-handbook)** | [🌐](https://oxara.github.io/elasticsearch-handbook/) | Elasticsearch 9.4 / .NET 10 — İndeksleme, sorgular, aggregation, cluster yönetimi |
+| <img src="https://img.shields.io/badge/H-4E3188?style=flat-square&logoColor=white" width="20" height="20" /> | **[Hangfire Handbook](https://github.com/Oxara/hangfire-handbook)** | [🌐](https://oxara.github.io/hangfire-handbook/) | Hangfire 1.8 / .NET 8-10 — Background jobs, recurring tasks, dashboard, scaling |
 
 ### 📝 Makaleler
 
