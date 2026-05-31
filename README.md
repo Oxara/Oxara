@@ -1,9 +1,6 @@
-<img src="banner.jpg" width="100%" alt="Banner" />
-
 ## Erdem Özkara
 
-14+ yıl deneyimli kurumsal backend sistemleri ve yazılım mimarisi mühendisi.  
-Ölçeklenebilir dağıtık sistemler tasarlar, yeniden kullanılabilir framework yapıları üretir.
+Bilgisayar Mühendisi — .NET ekosistemi üzerine çalışan, yazılım mimarisi ve ölçeklenebilir dağıtık sistemler konusunda kendini geliştirmeye odaklanmış bir backend geliştirici.
 
 <p>
 <a href="https://oxara.github.io/">
@@ -58,7 +55,11 @@
 
 ---
 
-### Mimari & Desenler
+### 🏗️ Mimari & Desenler
+
+| | Ad | Açıklama |
+|:---:|------|-------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="20" /> | **[Oxara.CleanArchTemplate](https://github.com/Oxara/Oxara.CleanArchTemplate)** | .NET 10 Clean Architecture API template — CQRS, JWT, EF Core, FluentValidation, 171 test |
 
 ```
 Clean Architecture · CQRS · Domain-Driven Design · Repository Pattern
@@ -68,5 +69,5 @@ Vertical Slice · Event-Driven · Microservices · API Gateway
 ---
 
 <p align="center">
-<i>Frontend yazmam. Frontend'in konuştuğu sistemleri yazarım.</i>
+<i>Asıl iş, işler ters gittiğinde başlar.</i>
 </p>
