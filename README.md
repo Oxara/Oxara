@@ -55,19 +55,6 @@ Bilgisayar Mühendisi — .NET ekosistemi üzerine çalışan, yazılım mimaris
 
 ---
 
-### 🏗️ Mimari & Desenler
-
-| | Ad | Açıklama |
-|:---:|------|-------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="20" /> | **[Oxara.CleanArchTemplate](https://github.com/Oxara/Oxara.CleanArchTemplate)** | .NET 10 Clean Architecture API template — CQRS, JWT, EF Core, FluentValidation, 171 test |
-
-```
-Clean Architecture · CQRS · Domain-Driven Design · Repository Pattern
-Vertical Slice · Event-Driven · Microservices · API Gateway
-```
-
----
-
 <p align="center">
 <i>Asıl iş, işler ters gittiğinde başlar.</i>
 </p>
