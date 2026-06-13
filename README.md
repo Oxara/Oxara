@@ -1,60 +1,65 @@
-## Erdem Özkara
+# Erdem Özkara
 
-Bilgisayar Mühendisi — .NET ekosistemi üzerine çalışan, yazılım mimarisi ve ölçeklenebilir dağıtık sistemler konusunda kendini geliştirmeye odaklanmış bir backend geliştirici.
+Backend sistemleri, yazılım mimarisi ve teknik dokümantasyon üzerine çalışan
+bir bilgisayar mühendisiyim. Ağırlıklı olarak .NET ekosisteminde; dağıtık
+sistemler, veri erişimi, mesajlaşma, önbellekleme ve arama altyapıları üzerine
+üretim odaklı çözümler geliştiriyorum.
 
-<p>
-<a href="https://oxara.github.io/">
-<img src="https://img.shields.io/badge/oxara.github.io-Portal-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Portal" />
-</a>
-<a href="https://www.linkedin.com/in/erdemozkara/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-</p>
+Kodun yanında, uygulamada karşılığı olan teknik bilgiyi açık ve sürdürülebilir
+başvuru kaynaklarına dönüştürmeye önem veriyorum.
+
+[Teknik yayınlar ve projeler](https://oxara.github.io/) ·
+[LinkedIn](https://www.linkedin.com/in/erdemozkara/)
+
+## Teknik yayınlar
+
+- **[EF Core Handbook](https://github.com/Oxara/efcore-handbook):**
+  Veri erişimi, sorgular, migration süreçleri ve performans yaklaşımı.
+  [Canlı dokümantasyon](https://oxara.github.io/efcore-handbook/)
+
+- **[Elasticsearch Handbook](https://github.com/Oxara/elasticsearch-handbook):**
+  Veri modelleme, Query DSL, aggregations, shard stratejisi, güvenlik,
+  performans ve .NET entegrasyonu.
+  [Canlı dokümantasyon](https://oxara.github.io/elasticsearch-handbook/)
+
+- **[RabbitMQ Handbook](https://github.com/Oxara/rabbitmq-handbook):**
+  Kuyruklar, exchange yapıları, mesajlaşma kalıpları ve .NET entegrasyonu.
+  [Canlı dokümantasyon](https://oxara.github.io/rabbitmq-handbook/)
+
+- **[Redis Handbook](https://github.com/Oxara/redis-handbook):**
+  Veri yapıları, cache stratejileri, pub/sub ve dağıtık kullanım senaryoları.
+  [Canlı dokümantasyon](https://oxara.github.io/redis-handbook/)
+
+- **[Hangfire Handbook](https://github.com/Oxara/hangfire-handbook):**
+  Arka plan işleri, retry politikaları, storage seçimi, gözlemlenebilirlik,
+  güvenlik ve ölçekleme.
+  [Canlı dokümantasyon](https://oxara.github.io/hangfire-handbook/)
+
+- **[Uluslararası Zaman Yönetimi](https://github.com/Oxara/timezone-article):**
+  UTC, DST, IANA zaman dilimi veritabanı ve ISO 8601 üzerine teknik makale.
+  [Makaleyi oku](https://oxara.github.io/timezone-article/)
+
+## Araçlar
+
+- **[Oxara.DocumentTemplate](https://github.com/Oxara/Oxara.DocumentTemplate):**
+  Statik teknik dokümantasyonlar için çok sayfalı yapı, ortak UI bileşenleri,
+  tema sistemi, SEO metadata ve yayın doğrulama araçları sağlayan
+  dokümantasyon altyapısı.
+
+- **[Oxtensions](https://github.com/Oxara/Oxtensions):**
+  Günlük backend geliştirme ihtiyaçları için hazırlanan yeniden kullanılabilir
+  .NET extension kütüphanesi.
+  [NuGet paketi](https://www.nuget.org/packages/Oxtensions)
+
+- **[Docker Service Stack](https://github.com/Oxara/Docker-Service-Stack):**
+  SQL Server, Redis ve RabbitMQ gibi servisler için yeniden kullanılabilir
+  Docker Compose yapılandırmaları.
+
+## Çalışma alanları
+
+`C#` · `.NET` · `ASP.NET Core` · `Entity Framework Core` · `SQL Server` ·
+`Redis` · `RabbitMQ` · `Elasticsearch` · `Hangfire` · `Docker`
 
 ---
 
-### Teknoloji Yığını
-
-<p>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
-<img src="https://img.shields.io/badge/EF_Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core" />
-<img src="https://img.shields.io/badge/Hangfire-4E3188?style=for-the-badge&logoColor=white" alt="Hangfire" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### 📚 Geliştirici Rehberleri
-
-| | Ad | Site | Açıklama |
-|:---:|------|:----:|-------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="20" /> | **[EF Core Handbook](https://github.com/Oxara/efcore-handbook)** | [🌐](https://oxara.github.io/efcore-handbook/) | EF Core 8/9/10 — Sorgular, migration, performans konularında kapsamlı Türkçe referans |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20" /> | **[Redis Handbook](https://github.com/Oxara/redis-handbook)** | [🌐](https://oxara.github.io/redis-handbook/) | Redis — Cache stratejileri, pub/sub, veri yapıları, clustering |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="20" /> | **[RabbitMQ Handbook](https://github.com/Oxara/rabbitmq-handbook)** | [🌐](https://oxara.github.io/rabbitmq-handbook/) | RabbitMQ 4.3 / .NET 8+ — Mesajlaşma kalıpları, kuyruklar, exchange'ler, MassTransit |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="20" /> | **[Elasticsearch Handbook](https://github.com/Oxara/elasticsearch-handbook)** | [🌐](https://oxara.github.io/elasticsearch-handbook/) | Elasticsearch 9.4 / .NET 10 — İndeksleme, sorgular, aggregation, cluster yönetimi |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="20" /> | **[Hangfire Handbook](https://github.com/Oxara/hangfire-handbook)** | [🌐](https://oxara.github.io/hangfire-handbook/) | Hangfire 1.8 / .NET 8-10 — Background jobs, recurring tasks, dashboard, scaling |
-
-### 📝 Makaleler
-
-| | Ad | Site | Açıklama |
-|:---:|------|:----:|-------------|
-| 🕐 | **[Timezone Article](https://github.com/Oxara/timezone-article)** | [🌐](https://oxara.github.io/timezone-article/) | Uluslararası Zaman Yönetimi — Zaman dilimleri, UTC, DST, IANA veritabanı ve yazılımcı rehberi |
-
-### 📦 Paketler & Araçlar
-
-| | Ad | Link | Açıklama |
-|:---:|------|:----:|-------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" width="20" /> | **[Oxtensions](https://github.com/Oxara/Oxtensions)** | [📦](https://www.nuget.org/packages/Oxtensions) | .NET Extension Libraries — Günlük backend işleri için yeniden kullanılabilir yardımcı uzantılar |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" /> | **[Docker Service Stack](https://github.com/Oxara/Docker-Service-Stack)** | — | Üretime hazır Docker kompozisyonları — SQL Server, Redis, RabbitMQ tek komutla |
-
----
-
-<p align="center">
-<i>Asıl iş, işler ters gittiğinde başlar.</i>
-</p>
+<p align="center"><i>Asıl iş, işler ters gittiğinde başlar.</i></p>
