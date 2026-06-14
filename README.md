@@ -8,36 +8,30 @@ sistemler, veri erişimi, mesajlaşma, önbellekleme ve arama altyapıları üze
 Kodun yanında, uygulamada karşılığı olan teknik bilgiyi açık ve sürdürülebilir
 başvuru kaynaklarına dönüştürmeye önem veriyorum.
 
-[Teknik yayınlar ve projeler](https://oxara.github.io/) ·
+[Teknik yayınlar ve projeler](https://erdemozkara.com/) ·
 [LinkedIn](https://www.linkedin.com/in/erdemozkara/)
 
 ## Teknik yayınlar
 
-- **[EF Core Handbook](https://github.com/Oxara/efcore-handbook):**
+- **[EF Core Handbook](https://erdemozkara.com/handbook/efcore/):**
   Veri erişimi, sorgular, migration süreçleri ve performans yaklaşımı.
-  [Canlı dokümantasyon](https://oxara.github.io/efcore-handbook/)
 
-- **[Elasticsearch Handbook](https://github.com/Oxara/elasticsearch-handbook):**
+- **[Elasticsearch Handbook](https://erdemozkara.com/handbook/elasticsearch/):**
   Veri modelleme, Query DSL, aggregations, shard stratejisi, güvenlik,
   performans ve .NET entegrasyonu.
-  [Canlı dokümantasyon](https://oxara.github.io/elasticsearch-handbook/)
 
-- **[RabbitMQ Handbook](https://github.com/Oxara/rabbitmq-handbook):**
+- **[RabbitMQ Handbook](https://erdemozkara.com/handbook/rabbitmq/):**
   Kuyruklar, exchange yapıları, mesajlaşma kalıpları ve .NET entegrasyonu.
-  [Canlı dokümantasyon](https://oxara.github.io/rabbitmq-handbook/)
 
-- **[Redis Handbook](https://github.com/Oxara/redis-handbook):**
+- **[Redis Handbook](https://erdemozkara.com/handbook/redis/):**
   Veri yapıları, cache stratejileri, pub/sub ve dağıtık kullanım senaryoları.
-  [Canlı dokümantasyon](https://oxara.github.io/redis-handbook/)
 
-- **[Hangfire Handbook](https://github.com/Oxara/hangfire-handbook):**
+- **[Hangfire Handbook](https://erdemozkara.com/handbook/hangfire/):**
   Arka plan işleri, retry politikaları, storage seçimi, gözlemlenebilirlik,
   güvenlik ve ölçekleme.
-  [Canlı dokümantasyon](https://oxara.github.io/hangfire-handbook/)
 
-- **[Uluslararası Zaman Yönetimi](https://github.com/Oxara/timezone-article):**
+- **[Uluslararası Zaman Yönetimi](https://erdemozkara.com/article/timezone/):**
   UTC, DST, IANA zaman dilimi veritabanı ve ISO 8601 üzerine teknik makale.
-  [Makaleyi oku](https://oxara.github.io/timezone-article/)
 
 ## Araçlar
 
