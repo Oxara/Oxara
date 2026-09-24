@@ -33,7 +33,7 @@ başvuru kaynaklarına dönüştürmeye önem veriyorum.
 - **[Uluslararası Zaman Yönetimi](https://erdemozkara.com/article/timezone/):**
   UTC, DST, IANA zaman dilimi veritabanı ve ISO 8601 üzerine teknik makale.
 
-## Araçlar
+## Kaynak depoları
 
 - **[Oxara.DocumentTemplate](https://github.com/Oxara/Oxara.DocumentTemplate):**
   Statik teknik dokümantasyonlar için çok sayfalı yapı, ortak UI bileşenleri,
@@ -43,11 +43,25 @@ başvuru kaynaklarına dönüştürmeye önem veriyorum.
 - **[Oxtensions](https://github.com/Oxara/Oxtensions):**
   Günlük backend geliştirme ihtiyaçları için hazırlanan yeniden kullanılabilir
   .NET extension kütüphanesi.
-  [NuGet paketi](https://www.nuget.org/packages/Oxtensions)
+
+- **[Local Change Guard](https://github.com/Oxara/Oxara.VsCode.LocalChangeGuard):**
+  Aynı dosyadaki geliştiriciye özel ve commit edilebilir Git hunk’larını
+  görünür tutarak güvenli biçimde ayıran VS Code uzantısı.
 
 - **[Docker Service Stack](https://github.com/Oxara/Docker-Service-Stack):**
   SQL Server, Redis ve RabbitMQ gibi servisler için yeniden kullanılabilir
   Docker Compose yapılandırmaları.
+
+## NuGet
+
+- **[Oxtensions](https://www.nuget.org/packages/Oxtensions):**
+  Paketin sürümlerine, kurulum komutuna ve yayın bilgilerine NuGet üzerinden
+  erişin.
+
+## VS Code Marketplace
+
+- **[Local Change Guard](https://marketplace.visualstudio.com/items?itemName=oxara.local-change-guard):**
+  Uzantıyı görüntüleyin ve Visual Studio Code için kurun.
 
 ## Çalışma alanları
 

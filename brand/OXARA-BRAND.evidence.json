@@ -1,0 +1,91 @@
+{
+  "$schema": "../../oxara-devkit/tools/brand-governance/schemas/evidence.schema.json",
+  "schemaVersion": 1,
+  "applicationBoundary": {
+    "targetProduct": "Oxara GitHub profile assets",
+    "productOwner": "Oxara Brand owner and product owner agents",
+    "objective": "Bind the Local Change Guard public media mirror to the canonical Brand profile and record the user-approved repository/Marketplace listing in the Oxara GitHub profile documentation.",
+    "changedFiles": [
+      "CHANGELOG.md",
+      "README.md",
+      "brand/OXARA-BRAND.evidence.json"
+    ],
+    "changeTypes": [
+      "documentation",
+      "governance"
+    ],
+    "protectedAreas": [
+      "assets/vscode/local-change-guard/change-classification-flow.png",
+      "assets/vscode/local-change-guard/change-groups-overview.png",
+      "assets/vscode/local-change-guard/safe-branch-workspaces.png",
+      "README content outside the Local Change Guard tool listing"
+    ],
+    "explicitApprovals": [
+      "documentation",
+      "governance"
+    ]
+  },
+  "brandComplianceProfile": {
+    "contractPath": "../../Oxara.Brand/docs/PRODUCT-EXPERIENCE.md",
+    "contractSha256": "1d9db0214076e1216446efce6b0c65362f7f67e903c2c60903acfd720cc53f7d",
+    "profilePath": "../../Oxara.Brand/profiles/vscode-local-change-guard.json",
+    "profileSha256": "4a9a02dc9ef7e16ae4d9fa9b6fc1bccd6eeb0e2cd6cce72d36df91cb4fd79b82",
+    "profileId": "vscode-local-change-guard",
+    "profileVersion": "1.0.0",
+    "manifestPath": "../../Oxara.Brand/exports/vscode-local-change-guard/manifest.json",
+    "manifestSha256": "a655776c8c017169c91407e6c36372b04124353d84107a95a9ae283fef8b2d16",
+    "provenanceStatus": "verified",
+    "literalBrandValues": false
+  },
+  "roles": {
+    "identityAccent": {
+      "source": "brand-contract"
+    },
+    "uiPrimary": {
+      "source": "brand-contract",
+      "contractEvidence": "The extension icon is static media; any product UI remains consumer-owned and the global primary action contract is unchanged.",
+      "lightRole": "not-applicable-static-media",
+      "darkRole": "not-applicable-static-media",
+      "foregroundRole": "white",
+      "foregroundEvidence": "No CTA is introduced; the Brand white foreground role remains available only through the central contract.",
+      "contrast": {
+        "status": "verified",
+        "normalTextRatio": 19,
+        "evidence": "No text is rendered in the icon; the declared static fallback pair is White on Brand Ink."
+      }
+    },
+    "documentAccent": {
+      "owner": "consumer",
+      "sharedTemplateLeakage": false,
+      "siteOwnedRoots": []
+    },
+    "siteTokenLeakage": {
+      "status": "verified",
+      "evidence": "The consumer receives one manifest-mapped raster icon and defines no local Brand token."
+    }
+  },
+  "workflow": {
+    "brandContract": "verified",
+    "productOwnerPilot": "complete",
+    "devkitAudit": "passed",
+    "userApproval": "approved",
+    "rollout": "ready"
+  },
+  "riskReview": {
+    "gradient": false,
+    "glow": false,
+    "pillHeading": false,
+    "buttonLikeHeading": false,
+    "ornamentalAccentBar": false,
+    "unnecessaryCardification": false,
+    "redesignByAccident": false,
+    "humanAestheticReview": {
+      "status": "approved",
+      "evidence": "The existing unchanged Marketplace icon was approved as part of the coordinated product identity review."
+    }
+  },
+  "media": {
+    "changed": false
+  },
+  "exceptions": []
+}
