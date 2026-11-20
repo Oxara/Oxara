@@ -1,72 +1,69 @@
 # Erdem Özkara
 
 Backend sistemleri, yazılım mimarisi ve teknik dokümantasyon üzerine çalışan
-bir bilgisayar mühendisiyim. Ağırlıklı olarak .NET ekosisteminde; dağıtık
-sistemler, veri erişimi, mesajlaşma, önbellekleme ve arama altyapıları üzerine
-üretim odaklı çözümler geliştiriyorum.
+bir bilgisayar mühendisiyim. Ağırlıklı olarak .NET ekosisteminde; veri erişimi,
+mesajlaşma, önbellekleme ve arama altyapıları üzerine çözümler geliştiriyorum.
 
-Kodun yanında, uygulamada karşılığı olan teknik bilgiyi açık ve sürdürülebilir
-başvuru kaynaklarına dönüştürmeye önem veriyorum.
+Çalışırken ortaya çıkan ihtiyaçları yeniden kullanılabilir araçlara,
+teknik notlara ve web projelerine dönüştürüyorum.
 
-[Teknik yayınlar ve projeler](https://erdemozkara.com/) ·
+[Kişisel site](https://erdemozkara.com/) ·
+[Çalışmalarımı keşfet](https://erdemozkara.com/explore/) ·
 [LinkedIn](https://www.linkedin.com/in/erdemozkara/)
+
+## Yayındaki web siteleri
+
+- **[erdemozkara.com](https://erdemozkara.com/)** — Kişisel tanıtımım,
+  yazılım yolculuğum, teknik rehberlerim ve geliştirdiğim araçlar.
+- **[tekinozkara.com](https://tekinozkara.com/)** — Bağlama eğitmeni
+  Tekin Özkara’nın tanıtım ve müzik eğitimi sitesi.
+- **[yukarikizilcadamadenehayir.org](https://yukarikizilcadamadenehayir.org/)** —
+  Yukarıkızılca’nın doğasını ve yaşam alanlarını koruma mücadelesi için
+  kaynaklı gelişmeleri, belgeleri ve yerel arşivi bir araya getiren bilgi sitesi.
+
+## Açık kaynak ve geliştirici araçları
+
+- **[Oxtensions](https://github.com/Oxara/Oxtensions)** — Günlük .NET
+  geliştirme ihtiyaçları için string, tarih, koleksiyon ve diğer uzantı metotları.
+  [NuGet’ten kur](https://www.nuget.org/packages/Oxtensions).
+- **[Oxara.DocumentTemplate](https://github.com/Oxara/Oxara.DocumentTemplate)** —
+  Teknik rehber ve makaleler için statik HTML bileşenleri; ortak tema, arama,
+  gezinme ve yayın kontrolleri.
+  [Canlı dokümantasyon](https://oxara.github.io/Oxara.DocumentTemplate/).
+- **[Docker Service Stack](https://github.com/Oxara/Docker-Service-Stack)** —
+  Veritabanı, mesajlaşma, arama ve izleme servisleri için Docker Compose
+  yapılandırmaları ve ortam yönetimi.
+- **[Local Change Guard](https://marketplace.visualstudio.com/items?itemName=oxara.local-change-guard)** —
+  Kişisel yerel ayarlarla paylaşılabilir Git değişikliklerini görünür tutmaya
+  yardımcı olan VS Code uzantısı. Marketplace üzerinden kurulabilir.
 
 ## Teknik yayınlar
 
-- **[EF Core Handbook](https://erdemozkara.com/handbook/efcore/):**
-  Veri erişimi, sorgular, migration süreçleri ve performans yaklaşımı.
+- **[EF Core](https://erdemozkara.com/handbook/efcore/)** — Veri erişimi,
+  sorgular, migration ve performans.
+- **[Redis](https://erdemozkara.com/handbook/redis/)** — Veri yapıları,
+  önbellekleme ve dağıtık kullanım.
+- **[RabbitMQ](https://erdemozkara.com/handbook/rabbitmq/)** — Mesajlaşma,
+  kuyruklar ve .NET entegrasyonu.
+- **[Elasticsearch](https://erdemozkara.com/handbook/elasticsearch/)** —
+  Arama, indeksleme, Query DSL ve .NET entegrasyonu.
+- **[Hangfire](https://erdemozkara.com/handbook/hangfire/)** — Arka plan
+  işleri, retry, gözlemlenebilirlik ve ölçekleme.
+- **[Uluslararası Zaman Yönetimi](https://erdemozkara.com/article/timezone/)** —
+  UTC, DST, IANA zaman dilimleri ve ISO 8601 üzerine teknik makale.
 
-- **[Elasticsearch Handbook](https://erdemozkara.com/handbook/elasticsearch/):**
-  Veri modelleme, Query DSL, aggregations, shard stratejisi, güvenlik,
-  performans ve .NET entegrasyonu.
-
-- **[RabbitMQ Handbook](https://erdemozkara.com/handbook/rabbitmq/):**
-  Kuyruklar, exchange yapıları, mesajlaşma kalıpları ve .NET entegrasyonu.
-
-- **[Redis Handbook](https://erdemozkara.com/handbook/redis/):**
-  Veri yapıları, cache stratejileri, pub/sub ve dağıtık kullanım senaryoları.
-
-- **[Hangfire Handbook](https://erdemozkara.com/handbook/hangfire/):**
-  Arka plan işleri, retry politikaları, storage seçimi, gözlemlenebilirlik,
-  güvenlik ve ölçekleme.
-
-- **[Uluslararası Zaman Yönetimi](https://erdemozkara.com/article/timezone/):**
-  UTC, DST, IANA zaman dilimi veritabanı ve ISO 8601 üzerine teknik makale.
-
-## Kaynak depoları
-
-- **[Oxara.DocumentTemplate](https://github.com/Oxara/Oxara.DocumentTemplate):**
-  Statik teknik dokümantasyonlar için çok sayfalı yapı, ortak UI bileşenleri,
-  tema sistemi, SEO metadata ve yayın doğrulama araçları sağlayan
-  dokümantasyon altyapısı.
-
-- **[Oxtensions](https://github.com/Oxara/Oxtensions):**
-  Günlük backend geliştirme ihtiyaçları için hazırlanan yeniden kullanılabilir
-  .NET extension kütüphanesi.
-
-- **[Local Change Guard](https://github.com/Oxara/Oxara.VsCode.LocalChangeGuard):**
-  Aynı dosyadaki geliştiriciye özel ve commit edilebilir Git hunk’larını
-  görünür tutarak güvenli biçimde ayıran VS Code uzantısı.
-
-- **[Docker Service Stack](https://github.com/Oxara/Docker-Service-Stack):**
-  SQL Server, Redis ve RabbitMQ gibi servisler için yeniden kullanılabilir
-  Docker Compose yapılandırmaları.
-
-## NuGet
-
-- **[Oxtensions](https://www.nuget.org/packages/Oxtensions):**
-  Paketin sürümlerine, kurulum komutuna ve yayın bilgilerine NuGet üzerinden
-  erişin.
-
-## VS Code Marketplace
-
-- **[Local Change Guard](https://marketplace.visualstudio.com/items?itemName=oxara.local-change-guard):**
-  Uzantıyı görüntüleyin ve Visual Studio Code için kurun.
+[Tüm rehberler](https://erdemozkara.com/explore/guides/) ·
+[Makaleler](https://erdemozkara.com/explore/articles/) ·
+[Paketler](https://erdemozkara.com/explore/packages/) ·
+[Araçlar](https://erdemozkara.com/explore/tools/)
 
 ## Çalışma alanları
 
 `C#` · `.NET` · `ASP.NET Core` · `Entity Framework Core` · `SQL Server` ·
 `Redis` · `RabbitMQ` · `Elasticsearch` · `Hangfire` · `Docker`
+
+[Görsel kimlik ve marka rehberi](https://brand.erdemozkara.com/) ·
+[İletişim](https://erdemozkara.com/contact/)
 
 ---
 

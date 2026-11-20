@@ -1,9 +1,16 @@
 # Profile changelog
 
-Oxara GitHub organizasyon profilindeki önemli görünür değişiklikler tarih bazlı
+Oxara kişisel GitHub profilindeki önemli görünür değişiklikler tarih bazlı
 olarak kaydedilir. Profil reposu SemVer kullanmaz.
 
-## Unreleased
+## 2026-11-20
+
+- Yayındaki erdemozkara.com, tekinozkara.com ve yukarikizilcadamadenehayir.org siteleri profilin üst bölümünde açıklamalarıyla listelendi.
+- Kişisel tanıtım ve Keşfet bağlantıları güncel site yapısıyla eşleştirildi.
+- Açık kaynak araçlar, kurulum hedefleri ve canlı DocumentTemplate dokümantasyonu tek bölümde toplandı.
+- Local Change Guard için herkese açık Marketplace bağlantısı kullanıldı; özel kaynak depoya yönlendirme kaldırıldı.
+- Beş teknik rehber, zaman yönetimi makalesi, iletişim ve canlı marka rehberi korundu.
+
 
 ## 2026-09-24
 
