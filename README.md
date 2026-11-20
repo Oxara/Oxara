@@ -15,8 +15,8 @@ teknik notlara ve web projelerine dönüştürüyorum.
 
 - **[erdemozkara.com](https://erdemozkara.com/)** — Kişisel tanıtımım,
   yazılım yolculuğum, teknik rehberlerim ve geliştirdiğim araçlar.
-- **[tekinozkara.com](https://tekinozkara.com/)** — Bağlama eğitmeni
-  Tekin Özkara’nın tanıtım ve müzik eğitimi sitesi.
+- **[tekinozkara.com](https://tekinozkara.com/)** — Babam Tekin Özkara için
+  geliştirdiğim bağlama ve müzik eğitimi sitesi.
 - **[yukarikizilcadamadenehayir.org](https://yukarikizilcadamadenehayir.org/)** —
   Yukarıkızılca’nın doğasını ve yaşam alanlarını koruma mücadelesi için
   kaynaklı gelişmeleri, belgeleri ve yerel arşivi bir araya getiren bilgi sitesi.
