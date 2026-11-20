@@ -62,9 +62,6 @@ teknik notlara ve web projelerine dönüştürüyorum.
 `C#` · `.NET` · `ASP.NET Core` · `Entity Framework Core` · `SQL Server` ·
 `Redis` · `RabbitMQ` · `Elasticsearch` · `Hangfire` · `Docker`
 
-[Görsel kimlik ve marka rehberi](https://brand.erdemozkara.com/) ·
-[İletişim](https://erdemozkara.com/contact/)
-
 ---
 
 <p align="center"><i>Asıl iş, işler ters gittiğinde başlar.</i></p>

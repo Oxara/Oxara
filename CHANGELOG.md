@@ -5,6 +5,8 @@ olarak kaydedilir. Profil reposu SemVer kullanmaz.
 
 ## 2026-11-20
 
+- Kullanıcı isteğiyle alt bölümdeki marka rehberi ve iletişim bağlantıları kaldırıldı.
+
 - Tekin Özkara sitesi açıklaması, kullanıcı onayıyla aile bağını ve geliştirme rolünü belirtecek şekilde güncellendi.
 
 - Yayındaki erdemozkara.com, tekinozkara.com ve yukarikizilcadamadenehayir.org siteleri profilin üst bölümünde açıklamalarıyla listelendi.
