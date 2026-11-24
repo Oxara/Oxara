@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">One file. Two intentions.</title><desc id="desc">A developer endpoint stays Local. A timeout fix is staged. Both edits remain in the working file.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8" fill="none" stroke="#91a6bd" stroke-width="1.5"/></marker></defs>
+<rect width="1200" height="420" rx="20" fill="#111a25"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="48" y="58" fill="#f0f5fb" font-size="28" font-weight="600">One file. Two intentions.</text>
+<text x="48" y="90" fill="#aabace" font-size="18">Keep both edits. Choose what belongs in the commit.</text>
+<rect x="48" y="126" width="560" height="222" rx="12" fill="#1a2737" stroke="#34475d"/>
+<text x="72" y="162" fill="#aabace" font-size="18">settings.json · two separate change blocks</text>
+<rect x="68" y="182" width="520" height="62" rx="7" fill="#27314a"/>
+<text x="86" y="208" fill="#ebefff" font-family="Consolas,monospace" font-size="19">endpoint: production → localhost</text>
+<text x="86" y="232" fill="#b5bfd5" font-size="16">Your machine-specific configuration</text>
+<rect x="68" y="260" width="520" height="62" rx="7" fill="#173b37"/>
+<text x="86" y="286" fill="#e1fff3" font-family="Consolas,monospace" font-size="19">timeout: 30 → 60</text>
+<text x="86" y="310" fill="#b1d3c6" font-size="16">The fix your team needs</text>
+<path d="M610 212 H708" stroke="#91a6bd" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M610 290 H708" stroke="#91a6bd" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="730" y="179" width="422" height="66" rx="10" fill="#27314a" stroke="#899ce1"/>
+<text x="752" y="207" fill="#e3e8ff" font-size="21" font-weight="600">Local</text><text x="752" y="231" fill="#bdc8e2" font-size="16">Excluded by the extension's staging actions</text>
+<rect x="730" y="258" width="422" height="66" rx="10" fill="#173b37" stroke="#69c9a1"/>
+<text x="752" y="286" fill="#d8ffeb" font-size="21" font-weight="600">Stage → commit</text><text x="752" y="310" fill="#b1d3c6" font-size="16">Share the timeout fix</text>
+<text x="48" y="388" fill="#aabace" font-size="17">Local classification changes metadata only. Your working file stays unchanged.</text>
+</g></svg>
