@@ -6,7 +6,8 @@
   "status": "release-candidate-documentation",
   "source": {
     "repository": "Oxara/Oxara.VsCode.LocalChangeGuard",
-    "visibility": "private"
+    "visibility": "private",
+    "commit": "f9d79c598358d4658a5818c3b0dc10900df4de47"
   },
   "sourceOfTruth": "Product repository; this folder is a reviewed public mirror. Update it from source and regenerate file hashes. Do not edit mirrored files independently.",
   "consumers": [
