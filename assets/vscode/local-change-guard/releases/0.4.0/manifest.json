@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "product": "Local Change Guard",
+  "extensionId": "oxara.local-change-guard",
+  "documentationVersion": "0.4.0",
+  "status": "release-candidate-documentation",
+  "source": {
+    "repository": "Oxara/Oxara.VsCode.LocalChangeGuard",
+    "visibility": "private"
+  },
+  "sourceOfTruth": "Product repository; this folder is a reviewed public mirror. Update it from source and regenerate file hashes. Do not edit mirrored files independently.",
+  "consumers": [
+    "VS Code Marketplace README for extension 0.4.0",
+    "Public GitHub product documentation"
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "sourcePath": "README.md",
+      "usedBy": "Product overview and VS Code Marketplace description",
+      "sha256": "4241532076bc8b4c83a76c2ba78849c88620b69f398eace9b1da984e550712f0"
+    },
+    {
+      "path": "docs/USAGE.md",
+      "sourcePath": "docs/USAGE.md",
+      "usedBy": "README.md: Usage guide; Open Branch Safely workflow",
+      "sha256": "a5640a2ba179abbb4e23d51daec4cd12c84d997644633b5ab36b86a731be4f28"
+    },
+    {
+      "path": "docs/images/local-vs-commit.png",
+      "sourcePath": "docs/images/local-vs-commit.png",
+      "usedBy": "README.md: Keep local changes local",
+      "sha256": "8fc959ee33ca45018574d1f2501a61425fcb16add4c79efed5362d6524cc026e"
+    },
+    {
+      "path": "docs/images/local-vs-commit.svg",
+      "sourcePath": "docs/images/local-vs-commit.svg",
+      "usedBy": "Editable source for docs/images/local-vs-commit.png",
+      "sha256": "0e5aed262c437fa8d8cf69e6c6fab254a9569c9c0f20391635effb35516ca65a"
+    },
+    {
+      "path": "docs/images/folder-selection.png",
+      "sourcePath": "docs/images/folder-selection.png",
+      "usedBy": "docs/USAGE.md: Select and act",
+      "sha256": "f0ce686225f387f4506def74b42391c6af6376efc97f6db937b935b66b01b09f"
+    },
+    {
+      "path": "docs/images/safe-branch-workspaces.png",
+      "sourcePath": "docs/images/safe-branch-workspaces.png",
+      "usedBy": "docs/USAGE.md: Branch workspaces",
+      "sha256": "176c94786cd5eb060f3cd86234432cc4d297502fe57cc507820a8e2eefe3d022"
+    },
+    {
+      "path": "PRIVACY.md",
+      "sourcePath": "PRIVACY.md",
+      "usedBy": "README.md and docs/USAGE.md: privacy and retention",
+      "sha256": "4a1b0fc048abf7c95faf6d5f454763406ee11691f25276be4ba6d1344cf31549"
+    },
+    {
+      "path": "SUPPORT.md",
+      "sourcePath": "SUPPORT.md",
+      "usedBy": "README.md: support contact",
+      "sha256": "713af94bf4f2e3fe8bf53626a3e8e612208ff35bf896e51f09dca4ca51011d4b"
+    },
+    {
+      "path": "SECURITY.md",
+      "sourcePath": "SECURITY.md",
+      "usedBy": "README.md and SUPPORT.md: private vulnerability reports",
+      "sha256": "178957f4b6ec02ec2f626bfb3ef4e1b358bfae5c6a30b8e00e32bc5ed56aaa8e"
+    },
+    {
+      "path": "LICENSE",
+      "sourcePath": "LICENSE",
+      "usedBy": "README.md: documentation license",
+      "sha256": "dd5e21ca17070a4e267885de98331d241a9e6bd2060b7bb2a49311fafa154e03"
+    },
+    {
+      "path": "TRADEMARKS.md",
+      "sourcePath": "TRADEMARKS.md",
+      "usedBy": "README.md: brand-use boundaries",
+      "sha256": "bf0b8cdbe98b632982582415c457c4ebcdef088e4b7891d92d70cb3f50d63a56"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.txt",
+      "sourcePath": "THIRD_PARTY_NOTICES.txt",
+      "usedBy": "README.md: third-party attribution",
+      "sha256": "4bd1178c4ae28bf3d9dacd5b867bd3da891549563412c5688b0ecb6c46dfa45a"
+    }
+  ],
+  "textNormalization": "UTF-8 text uses LF line endings; binary files are copied unchanged."
+}

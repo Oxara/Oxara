@@ -3,6 +3,12 @@
 Oxara kişisel GitHub profilindeki önemli görünür değişiklikler tarih bazlı
 olarak kaydedilir. Profil reposu SemVer kullanmaz.
 
+## 2026-11-24
+
+- Added a public-assets catalog and stable family/product/version folder convention.
+- Added Local Change Guard 0.4.0 release-candidate documentation, usage visuals and public support/privacy/security/licensing files, with a per-file source, consumer and SHA-256 manifest.
+- Preserved all earlier Local Change Guard asset URLs and left the profile README unchanged. This documentation update does not publish the extension.
+
 ## 2026-11-20
 
 - Kullanıcı isteğiyle alt bölümdeki marka rehberi ve iletişim bağlantıları kaldırıldı.
