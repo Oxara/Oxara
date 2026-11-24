@@ -5,6 +5,8 @@ olarak kaydedilir. Profil reposu SemVer kullanmaz.
 
 ## 2026-11-24
 
+- Added the versioned 0.4.1 documentation candidate for Local Change Guard and marked 0.4.0 as an unpublished, superseded candidate. Existing versioned files and legacy URLs are preserved.
+
 - Added a public-assets catalog and stable family/product/version folder convention.
 - Added Local Change Guard 0.4.0 release-candidate documentation, usage visuals and public support/privacy/security/licensing files, with a per-file source, consumer and SHA-256 manifest.
 - Preserved all earlier Local Change Guard asset URLs and left the profile README unchanged. This documentation update does not publish the extension.

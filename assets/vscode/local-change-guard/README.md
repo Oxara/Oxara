@@ -6,7 +6,8 @@ Public documentation and media for [Local Change Guard on VS Code Marketplace](h
 
 | Version | Status | Overview | File sources and consumers |
 | --- | --- | --- | --- |
-| 0.4.0 | Release-candidate documentation; the extension has not been published by this documentation update | [Read](releases/0.4.0/README.md) | [Manifest](releases/0.4.0/manifest.json) |
+| 0.4.1 | Release-candidate documentation; not yet published to Marketplace | [Read](releases/0.4.1/README.md) | [Manifest](releases/0.4.1/manifest.json) |
+| 0.4.0 | Unpublished candidate; superseded by 0.4.1 | [Read](releases/0.4.0/README.md) | [Manifest](releases/0.4.0/manifest.json) |
 
 Each manifest maps every public file to its source path and usage, with a SHA-256 checksum. The product source owns the text and visuals; refresh this mirror from reviewed source changes.
 

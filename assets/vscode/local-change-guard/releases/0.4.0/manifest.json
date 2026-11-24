@@ -3,7 +3,7 @@
   "product": "Local Change Guard",
   "extensionId": "oxara.local-change-guard",
   "documentationVersion": "0.4.0",
-  "status": "release-candidate-documentation",
+  "status": "unpublished-superseded",
   "source": {
     "repository": "Oxara/Oxara.VsCode.LocalChangeGuard",
     "visibility": "private",
@@ -11,8 +11,8 @@
   },
   "sourceOfTruth": "Product repository; this folder is a reviewed public mirror. Update it from source and regenerate file hashes. Do not edit mirrored files independently.",
   "consumers": [
-    "VS Code Marketplace README for extension 0.4.0",
-    "Public GitHub product documentation"
+    "Unpublished 0.4.0 candidate package",
+    "Public historical candidate documentation"
   ],
   "files": [
     {
@@ -88,5 +88,6 @@
       "sha256": "4bd1178c4ae28bf3d9dacd5b867bd3da891549563412c5688b0ecb6c46dfa45a"
     }
   ],
-  "textNormalization": "UTF-8 text uses LF line endings; binary files are copied unchanged."
+  "textNormalization": "UTF-8 text uses LF line endings; binary files are copied unchanged.",
+  "supersededBy": "0.4.1"
 }
