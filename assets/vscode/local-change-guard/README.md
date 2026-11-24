@@ -6,7 +6,7 @@ Public documentation and media for [Local Change Guard on VS Code Marketplace](h
 
 | Version | Status | Overview | File sources and consumers |
 | --- | --- | --- | --- |
-| 0.4.2 | Release-candidate documentation; not yet published to Marketplace | [Read](releases/0.4.2/README.md) | [Manifest](releases/0.4.2/manifest.json) |
+| 0.4.2 | Published on Marketplace | [Read](releases/0.4.2/README.md) | [Manifest](releases/0.4.2/manifest.json) |
 | 0.4.1 | Unpublished candidate; superseded by 0.4.2 | [Read](releases/0.4.1/README.md) | [Manifest](releases/0.4.1/manifest.json) |
 | 0.4.0 | Unpublished candidate; superseded by 0.4.1 | [Read](releases/0.4.0/README.md) | [Manifest](releases/0.4.0/manifest.json) |
 

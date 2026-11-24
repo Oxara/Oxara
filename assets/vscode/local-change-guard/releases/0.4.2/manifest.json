@@ -3,7 +3,7 @@
   "product": "Local Change Guard",
   "extensionId": "oxara.local-change-guard",
   "documentationVersion": "0.4.2",
-  "status": "release-candidate-documentation",
+  "status": "published",
   "source": {
     "repository": "Oxara/Oxara.VsCode.LocalChangeGuard",
     "visibility": "private",
@@ -88,5 +88,12 @@
       "sha256": "4bd1178c4ae28bf3d9dacd5b867bd3da891549563412c5688b0ecb6c46dfa45a"
     }
   ],
-  "textNormalization": "UTF-8 text uses LF line endings; binary files are copied unchanged."
+  "textNormalization": "UTF-8 text uses LF line endings; binary files are copied unchanged.",
+  "release": {
+    "version": "0.4.2",
+    "marketplace": "https://marketplace.visualstudio.com/items?itemName=oxara.local-change-guard",
+    "productionCommit": "8b51644baa656eb36887700ca3faff7a3921c735",
+    "tag": "v0.4.2",
+    "publishedAt": "2026-11-24T10:20:42.023Z"
+  }
 }
